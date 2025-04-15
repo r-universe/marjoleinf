@@ -1,7 +1,20 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/marjoleinf/marjoleinf.r-universe.dev
 	branch = HEAD
+[submodule "curtail"]
+	path = curtail
+	url = https://github.com/marjoleinF/curtail
+[submodule "gamtree"]
+	path = gamtree
+	url = https://github.com/marjoleinF/gamtree
+[submodule "glmertree"]
+	path = glmertree
+	url = https://r-forge.r-project.org/projects/partykit
+	subdir = pkg/glmertree
+[submodule "mvs"]
+	path = mvs
+	url = https://gitlab.com/wsvanloon/mvs
 [submodule "pre"]
 	path = pre
-	url = https://github.com/marjoleinf/pre
+	url = https://github.com/marjoleinF/pre
