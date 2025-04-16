@@ -10,7 +10,7 @@
 	url = https://github.com/marjoleinF/gamtree
 [submodule "glmertree"]
 	path = glmertree
-	url = https://r-forge.r-project.org/projects/partykit
+	url = https://github.com/r-forge/partykit
 	subdir = pkg/glmertree
 [submodule "mvs"]
 	path = mvs
